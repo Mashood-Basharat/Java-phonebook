@@ -1,0 +1,21 @@
+//Setters and Getters
+    public void setName(String nameP) {
+        this.name = nameP;
+    }
+    public String getName() {
+        return name;
+    }
+
+    public void setAddress(String addressP) {
+        this.address = addressP;
+    }
+    public String getAddress() {
+        return address;
+    }
+
+    public void setPhoneNum(String phoneNumP) {
+        this.phoneNum = phoneNumP;
+    }
+    public String getPhoneNum() {
+        return phoneNum;
+    }
